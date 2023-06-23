@@ -1,4 +1,4 @@
-# assignmentTask
+# Assignment Task
 
 **Steps to run the file**
 > - npm install
