@@ -55,7 +55,7 @@ function App() {
           return (
             <main key={ele.id} className="relative flex">
               <div className="cards p-5">
-                <div className="id absolute inline w-6 -translate-y-[0.5rem] translate-x-[11rem] rounded-full bg-black text-center text-white">
+                <div className="id relative w-[12%] left-[93%] top-[6%]  rounded-full bg-black text-center text-white">
                   {ele.id}
                 </div>
                 <div className="card rounded-lg ring-2 ring-black p-4">
